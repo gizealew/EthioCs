@@ -11,6 +11,11 @@
 		public class About {
 		
 		
+		
+		
+		
+		
+		
 				Dialog dialog = new Dialog(UIModel.mainWindow);
 				
 				JTextArea aboutTa = new JTextArea("Created at Bahir Dar University  2009 E.C /2017 G.C \n"+
